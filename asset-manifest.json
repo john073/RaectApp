@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RaectApp/static/css/main.073c9b0a.css",
+    "main.js": "/RaectApp/static/js/main.893b917a.js",
+    "static/js/787.1c940241.chunk.js": "/RaectApp/static/js/787.1c940241.chunk.js",
+    "static/media/logo.svg": "/RaectApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RaectApp/index.html",
+    "main.073c9b0a.css.map": "/RaectApp/static/css/main.073c9b0a.css.map",
+    "main.893b917a.js.map": "/RaectApp/static/js/main.893b917a.js.map",
+    "787.1c940241.chunk.js.map": "/RaectApp/static/js/787.1c940241.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.893b917a.js"
+  ]
+}
